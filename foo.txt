@@ -1,2 +1,3 @@
 hotfix + teste1
 feature-add-field-x
+alterações release v1.1.0
